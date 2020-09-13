@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_padding_10dp">10dp</dimen>
+    <dimen name="common_margin_10dp">10dp</dimen>
+    <dimen name="common_padding_16dp">10dp</dimen>
+    <dimen name="common_text_size_18sp">18sp</dimen>
+    <dimen name="common_padding_4dp">4dp</dimen>
+    <dimen name="common_margin_4dp">4dp</dimen>
+
+</resources>
